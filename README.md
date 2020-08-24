@@ -9,6 +9,14 @@ Expense Manager can track your expenses and even show you last week's per day ex
 - Uses SQLite for storing data locally in your device hence great privacy.
 - Works offline.
 
+## Screenshots
+[<img src="screenshots/Home_Screen_Empty.png" width="290">](screenshots/Home_Screen_Empty.png)
+[<img src="screenshots/Add_Pizza_Screen.png" width="290">](screenshots/Add_Pizza_Screen.png)
+[<img src="screenshots/Home_Screen_Pizza.png" width="290">](screenshots/Home_Screen_Pizza.png)
+[<img src="screenshots/Add_Dress_Screen.png" width="290">](screenshots/Add_Dress_Screen.png)
+[<img src="screenshots/Select_Dress_Date_Screen.png" width="290">](screenshots/Select_Dress_Date_Screen.png)
+[<img src="screenshots/Home_Screen_All_Transactions.png" width="290">](screenshots/Home_Screen_All_Transactions.png)
+
 ## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
